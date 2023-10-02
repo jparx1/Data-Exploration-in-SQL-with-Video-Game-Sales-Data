@@ -19,3 +19,5 @@ PROJECT STEPS:
   Import excel file into Tableau and create interactive dashboard
 
 Database formation was assisted by: https://github.com/bbrumm/databasestar/tree/main/sample_databases/sample_db_videogames/postgres -- data was gathered from free online source.
+
+*"Sales" figures are all indicative of number of copies sold, not dollar amounts
